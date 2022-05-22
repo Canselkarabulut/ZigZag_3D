@@ -1353,7 +1353,7 @@ MonoBehaviour:
   _groundSpawnerScripts: {fileID: 779167997}
   destroyTimeGround: 1
   _speed: 0
-  addSpeed: 2
+  addSpeed: 1.5
   finishPanel: {fileID: 333763248}
 --- !u!135 &1863286783
 SphereCollider:
